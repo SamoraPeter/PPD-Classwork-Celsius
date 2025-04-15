@@ -1,7 +1,7 @@
 # Project Title
 Celsius Convertor - Version 1.0
 
-#Description
+# Description
 Simple program in python. Takes the user input in Celsius and converts it int Fahrenheit
 The formula used: F = C * 9/5 + 32
 
