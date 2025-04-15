@@ -15,4 +15,4 @@ Created by: S.Peter
 Student number: 25302657  
 
 # Contact Information
-You can contact the developer at @25302657@satdio.ac.za
+You can contact the developer at @25302657@stadio.ac.za
