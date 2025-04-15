@@ -11,7 +11,7 @@ The formula used: F = C * 9/5 + 32
 - It can be opened with Juypter Notebook / VS Code
 
 # Authors 
-Creasted by : S. Peter
+Created by : S. Peter
 Student number : 25302657
 
 # Contact Information
