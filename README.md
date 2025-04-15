@@ -11,8 +11,8 @@ The formula used: F = C * 9/5 + 32
 - It can be opened with Juypter Notebook / VS Code
 
 # Authors 
-Created by : S. Peter
-Student number : 25302657
+Created by: S.Peter
+Student number: 25302657
 
 # Contact Information
 You can contact the developer at @25302657@satdio.ac.za
